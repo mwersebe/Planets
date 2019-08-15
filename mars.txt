@@ -4,3 +4,4 @@ The planet is red, very red.
 Thought to not have water, but this is no longer true.
 This document has a version control tracker in git!
 Mars has two moons 
+Mars was the god of war for the romans.
